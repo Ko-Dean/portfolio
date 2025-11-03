@@ -179,11 +179,6 @@
 - **기능**: AliExpress 링크로 유사상품 탐색, 최저가 추적, 가격 알림 제공
 - **링크**: [https://relow.io](https://relow.io)
 
-**📸 스크린샷**
-
-<a href="./images/pets/relow_home.png"><img src="./images/pets/relow_home.png" width="220"></a>
-<a href="./images/pets/relow_result.png"><img src="./images/pets/relow_result.png" width="220"></a>
-
 ---
 
 ## 🧑‍💻 모노랩스
