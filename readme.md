@@ -21,7 +21,7 @@
 - **페츠 주식회사 | 대표(창업)**
   - **재직기간**: 2022.07 ~ 현재 (3년 5개월)
   - **역할**: 1인 창업가, 기획 & 개발
-  - **스택**: AI[Cursor, Codex(ChatGPT), ClaudeCode, Perplexity]를 활용하여 Next.js, Vite.js, Express.js로 서비스 개발
+  - **스택**: AI[Cursor, Codex(ChatGPT), ClaudeCode, Perplexity, huggingface]를 활용하여 Next.js, Vite.js, Express.js로 서비스 개발
   - **도메인**: 반려동물, 어필리에이트, 영양제, 검색  
 
 - **모노랩스 | Full‑Stack & iOS / Project Owner**
